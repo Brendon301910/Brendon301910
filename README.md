@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Brendon301910/Brendon301910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working in Brazil.
 
-Here are some ideas to get you started:
+##### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **Sigtrans**
+- ⚙️ I use daily: `.ts`, `.cs`
+- 🌱 Learning about **Software Architecture** and **Mobile Development**
+- 📫 Reach me:
+  - 💼 [linkedin.com/in/brendonlee](https://linkedin.com/in/brendon-lee-842b72167)
+  - 📷 [instagram.com/brendon.o.lee](https://instagram.com/brendon.o.lee)
+<!-- 
+#### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendon301910&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
