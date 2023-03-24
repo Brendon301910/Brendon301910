@@ -6,7 +6,7 @@
 
 - 🏢 I'm currently working at **Sigtrans**
 - ⚙️ I use daily: `.ts`, `.cs`
-- 🌱 Learning about **Software Architecture** and **Mobile Development**
+- 🌱 Learning about **Software Architecture** and **Back-end Development**
 - 📫 Reach me:
   - 💼 [linkedin.com/in/brendonlee](https://linkedin.com/in/brendon-lee-842b72167)
   - 📷 [instagram.com/brendon.o.lee](https://instagram.com/brendon.o.lee)
